@@ -72,3 +72,32 @@ ul {
     text-decoration: none;
     border-radius: 8px;
 }
+
+.information-image {
+    width: 300px;
+    height: auto;
+    border: 5px solid #ABC4AA;
+    border-radius: 8px;
+}
+
+.info-container {
+    background-color: #F3DEBA;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 32px;
+    gap: 32px;
+}
+
+.information-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #675D50;
+}
+
+.information-grid {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
