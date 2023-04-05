@@ -7,3 +7,7 @@ The link to the full assignment can be found <a href="https://www.theodinproject
 
 Image credits:
 https://unsplash.com/@alexus42
+https://unsplash.com/@jcotten
+https://unsplash.com/@mattseymour
+https://unsplash.com/@cenisev
+https://unsplash.com/@mertguller
