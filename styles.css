@@ -25,6 +25,8 @@ ul {
 }
 
 .header-links {
+    font: 18px;
+    color: #E5E7EB;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
