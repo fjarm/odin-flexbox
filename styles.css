@@ -1,3 +1,32 @@
 body {
     font-family: Roboto, sans-serif;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header-top {
+    background-color: #1F2937;
+    color: white;
+    margin: 0;
+    padding-top: 16px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 32px;
 }
