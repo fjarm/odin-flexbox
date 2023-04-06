@@ -48,6 +48,7 @@ ul {
     justify-content: center;
     align-items: center;
     gap: 120px;
+    flex-wrap: wrap;
 }
 
 .header-main-text {
@@ -71,6 +72,7 @@ ul {
     text-align: center;
     text-decoration: none;
     border-radius: 8px;
+    flex-shrink: 0;
 }
 
 .information-image {
@@ -132,4 +134,28 @@ ul {
     flex-direction: column;
     width: 700px;
     gap: 16px;
+}
+
+.sign-up-bold {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.sign-up-area {
+    background-color: #F3DEBA;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 100px 0;
+}
+
+.sign-up-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 800px;
+    height: 100px;
+    padding: 0 60px;
+    background-color: #ABC4AA;
+    border-radius: 15px;
 }
