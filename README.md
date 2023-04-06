@@ -6,7 +6,7 @@ The goal of the assignment is to practice utilizing Flexbox in order to create a
 The link to the full assignment can be found <a href="https://www.theodinproject.com/lessons/foundations-landing-page">here</a>.
 
 Image credits:
-https://unsplash.com/@alexus42
+https://unsplash.com/@freestocks
 https://unsplash.com/@jcotten
 https://unsplash.com/@mattseymour
 https://unsplash.com/@cenisev
