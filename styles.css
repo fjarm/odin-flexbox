@@ -56,8 +56,8 @@ ul {
 }
 
 .header-image {
-    width: auto;
-    height: 200px;
+    width: 400px;
+    height: auto;
 }
 
 .header-sub-text {
@@ -85,7 +85,7 @@ ul {
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding-top: 32px;
+    padding: 32px 0 64px;
     gap: 32px;
 }
 
@@ -100,4 +100,36 @@ ul {
     display: flex;
     justify-content: center;
     gap: 32px;
+}
+
+.image-text {
+    inline-size: 300px;
+    text-align: center;
+    color: #665d53;
+}
+
+.quote-area {
+    background-color: #A9907E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 200px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote-source {
+    font-size: 26px;
+    font-weight: bold;
+    align-self: flex-end;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    gap: 16px;
 }
