@@ -159,3 +159,16 @@ ul {
     background-color: #ABC4AA;
     border-radius: 15px;
 }
+
+.footer-container {
+    background-color: #675D50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+.footer-text {
+    font-weight: bold;
+    color: #F3DEBA;
+}
